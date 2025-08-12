@@ -1,0 +1,20 @@
+
+指引.png
+size: 346,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q
+  rotate: false
+  xy: 1, 15
+  size: 201, 118
+  orig: 226, 144
+  offset: 13, 13
+  index: -1
+zys
+  rotate: false
+  xy: 204, 1
+  size: 141, 132
+  orig: 168, 160
+  offset: 14, 14
+  index: -1

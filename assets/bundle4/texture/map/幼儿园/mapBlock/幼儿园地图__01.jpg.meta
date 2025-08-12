@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "855f5f6f-8b8c-4ec6-928f-1ac362476848",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3000,
+  "height": 3000,
+  "platformSettings": {},
+  "subMetas": {
+    "幼儿园地图__01": {
+      "ver": "1.0.4",
+      "uuid": "ac1f52ed-91a8-44e6-8fce-a023a27c7ff1",
+      "rawTextureUuid": "855f5f6f-8b8c-4ec6-928f-1ac362476848",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3000,
+      "height": 3000,
+      "rawWidth": 3000,
+      "rawHeight": 3000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

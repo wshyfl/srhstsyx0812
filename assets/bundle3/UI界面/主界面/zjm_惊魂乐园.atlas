@@ -1,0 +1,139 @@
+
+zjm_惊魂乐园.png
+size: 2012,678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjm_惊魂乐园/人1
+  rotate: false
+  xy: 1227, 360
+  size: 226, 293
+  orig: 245, 311
+  offset: 9, 9
+  index: -1
+zjm_惊魂乐园/人2
+  rotate: false
+  xy: 1382, 241
+  size: 52, 69
+  orig: 71, 87
+  offset: 9, 9
+  index: -1
+zjm_惊魂乐园/人3
+  rotate: false
+  xy: 1926, 376
+  size: 61, 75
+  orig: 79, 93
+  offset: 9, 9
+  index: -1
+zjm_惊魂乐园/人4
+  rotate: false
+  xy: 974, 282
+  size: 203, 371
+  orig: 221, 389
+  offset: 9, 9
+  index: -1
+zjm_惊魂乐园/人5
+  rotate: false
+  xy: 1779, 37
+  size: 164, 44
+  orig: 182, 62
+  offset: 9, 9
+  index: -1
+zjm_惊魂乐园/南瓜
+  rotate: false
+  xy: 25, 98
+  size: 532, 555
+  orig: 550, 573
+  offset: 9, 9
+  index: -1
+zjm_惊魂乐园/南瓜2
+  rotate: true
+  xy: 1503, 182
+  size: 471, 56
+  orig: 489, 74
+  offset: 9, 9
+  index: -1
+zjm_惊魂乐园/鬼9
+  rotate: false
+  xy: 1609, 361
+  size: 267, 68
+  orig: 285, 86
+  offset: 9, 9
+  index: -1
+怪物5/前大腿
+  rotate: false
+  xy: 974, 110
+  size: 93, 122
+  orig: 93, 122
+  offset: 0, 0
+  index: -1
+怪物5/前大臂
+  rotate: false
+  xy: 1227, 182
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+怪物5/前小腿
+  rotate: false
+  xy: 1609, 115
+  size: 157, 196
+  orig: 162, 196
+  offset: 5, 0
+  index: -1
+怪物5/前小臂
+  rotate: false
+  xy: 1831, 501
+  size: 98, 152
+  orig: 98, 152
+  offset: 0, 0
+  index: -1
+怪物5/后大腿
+  rotate: true
+  xy: 1117, 39
+  size: 93, 121
+  orig: 93, 121
+  offset: 0, 0
+  index: -1
+怪物5/后大臂
+  rotate: true
+  xy: 1288, 52
+  size: 80, 136
+  orig: 80, 136
+  offset: 0, 0
+  index: -1
+怪物5/后小腿
+  rotate: 180
+  xy: 1771, 131
+  size: 155, 180
+  orig: 159, 180
+  offset: 4, 0
+  index: -1
+怪物5/后小臂
+  rotate: true
+  xy: 607, 25
+  size: 68, 142
+  orig: 68, 142
+  offset: 0, 0
+  index: -1
+怪物5/图层 82
+  rotate: true
+  xy: 1474, 81
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+怪物5/头身
+  rotate: false
+  xy: 607, 143
+  size: 317, 510
+  orig: 317, 510
+  offset: 0, 0
+  index: -1
+怪物5/棍子
+  rotate: false
+  xy: 1609, 479
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1

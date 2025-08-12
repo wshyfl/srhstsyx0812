@@ -1,0 +1,216 @@
+
+转场.png
+size: 2048,1228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_过场
+  rotate: false
+  xy: 25, 484
+  size: 1700, 720
+  orig: 1700, 720
+  offset: 0, 0
+  index: -1
+合成 1/合成 1_00
+  rotate: false
+  xy: 1513, 189
+  size: 53, 86
+  orig: 100, 100
+  offset: 22, 8
+  index: -1
+合成 1/合成 1_01
+  rotate: false
+  xy: 1887, 174
+  size: 52, 86
+  orig: 100, 100
+  offset: 22, 8
+  index: -1
+合成 1/合成 1_02
+  rotate: false
+  xy: 1383, 164
+  size: 52, 86
+  orig: 100, 100
+  offset: 22, 8
+  index: -1
+合成 1/合成 1_03
+  rotate: true
+  xy: 1616, 139
+  size: 52, 86
+  orig: 100, 100
+  offset: 22, 8
+  index: -1
+合成 1/合成 1_04
+  rotate: true
+  xy: 970, 64
+  size: 48, 86
+  orig: 100, 100
+  offset: 25, 8
+  index: -1
+合成 1/合成 1_05
+  rotate: true
+  xy: 1106, 64
+  size: 48, 86
+  orig: 100, 100
+  offset: 25, 8
+  index: -1
+合成 1/合成 1_06
+  rotate: true
+  xy: 835, 63
+  size: 49, 85
+  orig: 100, 100
+  offset: 24, 8
+  index: -1
+合成 1/合成 1_07
+  rotate: true
+  xy: 701, 62
+  size: 50, 84
+  orig: 100, 100
+  offset: 24, 9
+  index: -1
+合成 1/合成 1_08
+  rotate: true
+  xy: 1383, 63
+  size: 51, 84
+  orig: 100, 100
+  offset: 23, 9
+  index: -1
+合成 1/合成 1_09
+  rotate: true
+  xy: 567, 61
+  size: 51, 84
+  orig: 100, 100
+  offset: 23, 9
+  index: -1
+合成 1/合成 1_10
+  rotate: true
+  xy: 1887, 73
+  size: 51, 86
+  orig: 100, 100
+  offset: 23, 8
+  index: -1
+影子
+  rotate: false
+  xy: 1775, 1011
+  size: 192, 192
+  orig: 218, 218
+  offset: 13, 13
+  index: -1
+怪物5/前大腿
+  rotate: false
+  xy: 1948, 310
+  size: 75, 104
+  orig: 93, 122
+  offset: 9, 9
+  index: -1
+怪物5/前大臂
+  rotate: false
+  xy: 1513, 325
+  size: 87, 109
+  orig: 105, 128
+  offset: 9, 10
+  index: -1
+怪物5/前小腿
+  rotate: false
+  xy: 1774, 559
+  size: 157, 196
+  orig: 162, 196
+  offset: 5, 0
+  index: -1
+怪物5/前小臂
+  rotate: false
+  xy: 1383, 300
+  size: 80, 134
+  orig: 98, 152
+  offset: 9, 9
+  index: -1
+怪物5/后大腿
+  rotate: false
+  xy: 1650, 241
+  size: 75, 103
+  orig: 93, 121
+  offset: 9, 9
+  index: -1
+怪物5/后大臂
+  rotate: false
+  xy: 1775, 161
+  size: 62, 118
+  orig: 80, 136
+  offset: 9, 9
+  index: -1
+怪物5/后小腿
+  rotate: false
+  xy: 1753, 329
+  size: 155, 180
+  orig: 159, 180
+  offset: 4, 0
+  index: -1
+怪物5/后小臂
+  rotate: false
+  xy: 1973, 547
+  size: 50, 124
+  orig: 68, 142
+  offset: 9, 9
+  index: -1
+怪物5/图层 82
+  rotate: false
+  xy: 1979, 917
+  size: 33, 44
+  orig: 51, 62
+  offset: 9, 9
+  index: -1
+怪物5/头身
+  rotate: true
+  xy: 25, 135
+  size: 299, 492
+  orig: 317, 510
+  offset: 9, 9
+  index: -1
+怪物5/棍子
+  rotate: false
+  xy: 1775, 805
+  size: 154, 156
+  orig: 172, 174
+  offset: 9, 9
+  index: -1
+角色1/头2
+  rotate: true
+  xy: 567, 162
+  size: 272, 358
+  orig: 272, 358
+  offset: 0, 0
+  index: -1
+角色1/手L
+  rotate: true
+  xy: 1628, 27
+  size: 47, 66
+  orig: 272, 358
+  offset: 147, 82
+  index: -1
+角色1/手R
+  rotate: false
+  xy: 1513, 59
+  size: 51, 73
+  orig: 272, 358
+  offset: 87, 77
+  index: -1
+角色1/脚L
+  rotate: true
+  xy: 1752, 62
+  size: 45, 59
+  orig: 272, 358
+  offset: 138, 42
+  index: -1
+角色1/脚R
+  rotate: true
+  xy: 1242, 63
+  size: 49, 61
+  orig: 272, 358
+  offset: 102, 40
+  index: -1
+角色1/身体
+  rotate: true
+  xy: 975, 162
+  size: 272, 358
+  orig: 272, 358
+  offset: 0, 0
+  index: -1

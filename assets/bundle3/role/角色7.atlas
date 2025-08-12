@@ -1,0 +1,111 @@
+
+角色7.png
+size: 1006,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+影子
+  rotate: false
+  xy: 413, 77
+  size: 117, 117
+  orig: 131, 131
+  offset: 7, 7
+  index: -1
+角色7/内大腿
+  rotate: true
+  xy: 737, 149
+  size: 45, 43
+  orig: 55, 53
+  offset: 5, 5
+  index: -1
+角色7/内大臂
+  rotate: false
+  xy: 941, 161
+  size: 32, 33
+  orig: 42, 43
+  offset: 5, 5
+  index: -1
+角色7/内小腿
+  rotate: false
+  xy: 690, 128
+  size: 46, 68
+  orig: 55, 74
+  offset: 4, 4
+  index: -1
+角色7/内小臂
+  rotate: false
+  xy: 901, 139
+  size: 39, 57
+  orig: 45, 61
+  offset: 3, 3
+  index: -1
+角色7/外大腿
+  rotate: true
+  xy: 603, 142
+  size: 52, 48
+  orig: 62, 58
+  offset: 5, 5
+  index: -1
+角色7/外大臂
+  rotate: false
+  xy: 871, 159
+  size: 33, 35
+  orig: 43, 45
+  offset: 5, 5
+  index: -1
+角色7/外小腿
+  rotate: 180
+  xy: 648, 120
+  size: 47, 75
+  orig: 55, 78
+  offset: 4, 3
+  index: -1
+角色7/外小臂
+  rotate: false
+  xy: 782, 137
+  size: 42, 58
+  orig: 46, 63
+  offset: 2, 2
+  index: -1
+角色7/头
+  rotate: false
+  xy: 1, 1
+  size: 204, 193
+  orig: 214, 203
+  offset: 5, 5
+  index: -1
+角色7/头2
+  rotate: false
+  xy: 207, 1
+  size: 204, 193
+  orig: 214, 203
+  offset: 5, 5
+  index: -1
+角色7/电线1
+  rotate: true
+  xy: 975, 159
+  size: 36, 30
+  orig: 131, 77
+  offset: 90, 32
+  index: -1
+角色7/电线2
+  rotate: 180
+  xy: 818, 127
+  size: 52, 68
+  orig: 131, 77
+  offset: 5, 5
+  index: -1
+角色7/电线3
+  rotate: true
+  xy: 817, 155
+  size: 40, 32
+  orig: 131, 77
+  offset: 15, 33
+  index: -1
+角色7/身体
+  rotate: false
+  xy: 532, 125
+  size: 69, 69
+  orig: 77, 79
+  offset: 4, 5
+  index: -1

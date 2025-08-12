@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "846ae6bb-1977-442c-a1c2-b3b9913cc418",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1950,
+  "height": 1950,
+  "platformSettings": {},
+  "subMetas": {
+    "游乐场地图_04": {
+      "ver": "1.0.4",
+      "uuid": "10693ffd-3cb6-45bc-ac9b-8bd2e82582ae",
+      "rawTextureUuid": "846ae6bb-1977-442c-a1c2-b3b9913cc418",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1950,
+      "height": 1950,
+      "rawWidth": 1950,
+      "rawHeight": 1950,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

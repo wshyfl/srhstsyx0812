@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f1f26f90-0ee0-4bf0-bec9-cf9e8523107e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "zjm_午夜医院": {
+      "ver": "1.0.4",
+      "uuid": "d102df1a-7a80-46c6-aeb5-f43ed155a5f7",
+      "rawTextureUuid": "f1f26f90-0ee0-4bf0-bec9-cf9e8523107e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -12.5,
+      "offsetY": 184.5,
+      "trimX": 0,
+      "trimY": 4,
+      "width": 231,
+      "height": 1671,
+      "rawWidth": 256,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

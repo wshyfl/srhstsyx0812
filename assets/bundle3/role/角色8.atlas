@@ -1,0 +1,314 @@
+
+角色8.png
+size: 2026,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+影子
+  rotate: false
+  xy: 1597, 215
+  size: 117, 117
+  orig: 131, 131
+  offset: 7, 7
+  index: -1
+角色8/Glow
+  rotate: false
+  xy: 1470, 206
+  size: 125, 126
+  orig: 146, 146
+  offset: 11, 9
+  index: -1
+角色8/光圈
+  rotate: false
+  xy: 1, 40
+  size: 292, 292
+  orig: 312, 312
+  offset: 10, 10
+  index: -1
+角色8/内大臂
+  rotate: false
+  xy: 1177, 36
+  size: 60, 96
+  orig: 70, 106
+  offset: 5, 5
+  index: -1
+角色8/内小腿
+  rotate: 270
+  xy: 1687, 3
+  size: 78, 100
+  orig: 87, 104
+  offset: 5, 4
+  index: -1
+角色8/吸/吸_00
+  rotate: true
+  xy: 488, 19
+  size: 51, 56
+  orig: 600, 600
+  offset: 110, 406
+  index: -1
+角色8/吸/吸_01
+  rotate: true
+  xy: 1468, 67
+  size: 56, 111
+  orig: 600, 600
+  offset: 100, 340
+  index: -1
+角色8/吸/吸_02
+  rotate: true
+  xy: 414, 72
+  size: 64, 134
+  orig: 600, 600
+  offset: 100, 304
+  index: -1
+角色8/吸/吸_03
+  rotate: false
+  xy: 1716, 171
+  size: 77, 161
+  orig: 600, 600
+  offset: 102, 274
+  index: -1
+角色8/吸/吸_04
+  rotate: false
+  xy: 1371, 152
+  size: 97, 180
+  orig: 600, 600
+  offset: 104, 252
+  index: -1
+角色8/吸/吸_05
+  rotate: false
+  xy: 1247, 140
+  size: 122, 192
+  orig: 600, 600
+  offset: 105, 237
+  index: -1
+角色8/吸/吸_06
+  rotate: false
+  xy: 815, 137
+  size: 146, 195
+  orig: 600, 600
+  offset: 105, 231
+  index: -1
+角色8/吸/吸_07
+  rotate: false
+  xy: 479, 138
+  size: 166, 194
+  orig: 600, 600
+  offset: 106, 229
+  index: -1
+角色8/吸/吸_08
+  rotate: false
+  xy: 295, 142
+  size: 182, 190
+  orig: 600, 600
+  offset: 107, 229
+  index: -1
+角色8/吸/吸_09
+  rotate: true
+  xy: 963, 138
+  size: 194, 144
+  orig: 600, 600
+  offset: 108, 232
+  index: -1
+角色8/吸/吸_10
+  rotate: true
+  xy: 1109, 134
+  size: 198, 136
+  orig: 600, 600
+  offset: 111, 235
+  index: -1
+角色8/吸/吸_11
+  rotate: false
+  xy: 647, 67
+  size: 145, 78
+  orig: 600, 600
+  offset: 170, 237
+  index: -1
+角色8/吸/吸_12
+  rotate: false
+  xy: 1470, 125
+  size: 144, 79
+  orig: 600, 600
+  offset: 174, 238
+  index: -1
+角色8/吸/吸_13
+  rotate: false
+  xy: 1616, 89
+  size: 142, 80
+  orig: 600, 600
+  offset: 178, 240
+  index: -1
+角色8/吸/吸_14
+  rotate: false
+  xy: 874, 59
+  size: 86, 76
+  orig: 600, 600
+  offset: 235, 244
+  index: -1
+角色8/吸/吸_15
+  rotate: false
+  xy: 1866, 20
+  size: 80, 73
+  orig: 600, 600
+  offset: 241, 248
+  index: -1
+角色8/吸/吸_16
+  rotate: false
+  xy: 1948, 22
+  size: 77, 71
+  orig: 600, 600
+  offset: 244, 250
+  index: -1
+角色8/吸/吸_17
+  rotate: false
+  xy: 414, 4
+  size: 72, 66
+  orig: 600, 600
+  offset: 249, 254
+  index: -1
+角色8/外大腿
+  rotate: 270
+  xy: 1581, 19
+  size: 79, 105
+  orig: 85, 107
+  offset: 3, 2
+  index: -1
+角色8/外大臂
+  rotate: false
+  xy: 794, 44
+  size: 78, 91
+  orig: 88, 101
+  offset: 5, 5
+  index: -1
+角色8/外小臂
+  rotate: false
+  xy: 1915, 95
+  size: 75, 117
+  orig: 85, 127
+  offset: 5, 5
+  index: -1
+角色8/头
+  rotate: true
+  xy: 1902, 214
+  size: 118, 99
+  orig: 128, 109
+  offset: 5, 5
+  index: -1
+角色8/头2
+  rotate: false
+  xy: 1795, 113
+  size: 118, 99
+  orig: 128, 109
+  offset: 5, 5
+  index: -1
+角色8/手L
+  rotate: true
+  xy: 1795, 219
+  size: 113, 105
+  orig: 123, 115
+  offset: 5, 5
+  index: -1
+角色8/电流/电_00
+  rotate: false
+  xy: 1760, 54
+  size: 104, 57
+  orig: 192, 192
+  offset: 36, 12
+  index: -1
+角色8/电流/电_01
+  rotate: false
+  xy: 2003, 331
+  size: 1, 1
+  orig: 192, 192
+  offset: 191, 0
+  index: -1
+角色8/电流/电_03
+  rotate: false
+  xy: 2003, 331
+  size: 1, 1
+  orig: 192, 192
+  offset: 191, 0
+  index: -1
+角色8/电流/电_05
+  rotate: false
+  xy: 2003, 331
+  size: 1, 1
+  orig: 192, 192
+  offset: 191, 0
+  index: -1
+角色8/电流/电_07
+  rotate: false
+  xy: 2003, 331
+  size: 1, 1
+  orig: 192, 192
+  offset: 191, 0
+  index: -1
+角色8/电流/电_09
+  rotate: false
+  xy: 2003, 331
+  size: 1, 1
+  orig: 192, 192
+  offset: 191, 0
+  index: -1
+角色8/电流/电_10
+  rotate: false
+  xy: 2003, 331
+  size: 1, 1
+  orig: 192, 192
+  offset: 191, 0
+  index: -1
+角色8/电流/电_12
+  rotate: false
+  xy: 2003, 331
+  size: 1, 1
+  orig: 192, 192
+  offset: 191, 0
+  index: -1
+角色8/电流/电_02
+  rotate: false
+  xy: 1247, 66
+  size: 110, 72
+  orig: 192, 192
+  offset: 37, 12
+  index: -1
+角色8/电流/电_04
+  rotate: false
+  xy: 1371, 58
+  size: 95, 92
+  orig: 192, 192
+  offset: 48, 6
+  index: -1
+角色8/电流/电_06
+  rotate: false
+  xy: 550, 47
+  size: 86, 89
+  orig: 192, 192
+  offset: 64, 9
+  index: -1
+角色8/电流/电_08
+  rotate: false
+  xy: 295, 65
+  size: 117, 75
+  orig: 192, 192
+  offset: 59, 5
+  index: -1
+角色8/电流/电_11
+  rotate: false
+  xy: 963, 70
+  size: 117, 66
+  orig: 192, 192
+  offset: 47, 4
+  index: -1
+角色8/电流/电_13
+  rotate: false
+  xy: 1082, 59
+  size: 93, 73
+  orig: 192, 192
+  offset: 61, 0
+  index: -1
+角色8/身体
+  rotate: false
+  xy: 647, 147
+  size: 166, 185
+  orig: 176, 195
+  offset: 5, 5
+  index: -1

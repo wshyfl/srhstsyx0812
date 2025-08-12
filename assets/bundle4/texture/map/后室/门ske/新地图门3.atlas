@@ -1,0 +1,34 @@
+
+新地图门3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+新地图门3/大门1 拷贝 2
+  rotate: false
+  xy: 340, 122
+  size: 17, 270
+  orig: 166, 431
+  offset: 22, 142
+  index: -1
+新地图门3/大门2 拷贝 2
+  rotate: false
+  xy: 258, 7
+  size: 78, 385
+  orig: 166, 431
+  offset: 22, 26
+  index: -1
+新地图门3/大门3 拷贝 3
+  rotate: false
+  xy: 2, 2
+  size: 123, 390
+  orig: 166, 431
+  offset: 19, 19
+  index: -1
+新地图门3/小门1 拷贝 3
+  rotate: false
+  xy: 129, 24
+  size: 125, 368
+  orig: 166, 431
+  offset: 22, 43
+  index: -1

@@ -1,0 +1,62 @@
+
+门2.png
+size: 156,1095
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+上
+  rotate: false
+  xy: 128, 321
+  size: 15, 152
+  orig: 15, 152
+  offset: 0, 0
+  index: -1
+下
+  rotate: false
+  xy: 128, 321
+  size: 15, 152
+  orig: 15, 152
+  offset: 0, 0
+  index: -1
+上开
+  rotate: false
+  xy: 1, 321
+  size: 125, 241
+  orig: 125, 241
+  offset: 0, 0
+  index: -1
+下开
+  rotate: false
+  xy: 1, 321
+  size: 125, 241
+  orig: 125, 241
+  offset: 0, 0
+  index: -1
+大门2上
+  rotate: false
+  xy: 1, 1
+  size: 76, 318
+  orig: 76, 318
+  offset: 0, 0
+  index: -1
+大门2下
+  rotate: false
+  xy: 79, 1
+  size: 76, 318
+  orig: 76, 318
+  offset: 0, 0
+  index: -1
+大门3上
+  rotate: false
+  xy: 1, 830
+  size: 119, 264
+  orig: 119, 264
+  offset: 0, 0
+  index: -1
+大门3下
+  rotate: false
+  xy: 1, 564
+  size: 119, 264
+  orig: 119, 264
+  offset: 0, 0
+  index: -1

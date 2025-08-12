@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a4548546-6239-4f60-b1b9-e1cdd676a278",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 82,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "魔法球": {
+      "ver": "1.0.4",
+      "uuid": "81681034-424a-4f1a-870f-5ec04bf0f80c",
+      "rawTextureUuid": "a4548546-6239-4f60-b1b9-e1cdd676a278",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 82,
+      "height": 92,
+      "rawWidth": 82,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

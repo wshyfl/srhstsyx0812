@@ -1,0 +1,104 @@
+
+炸弹.png
+size: 354,1927
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+炸弹/hit_sg_huang
+  rotate: false
+  xy: 1, 1726
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_45
+  rotate: false
+  xy: 1, 1554
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_46
+  rotate: false
+  xy: 1, 1382
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_47
+  rotate: false
+  xy: 1, 1209
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_48
+  rotate: false
+  xy: 1, 1037
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_50
+  rotate: false
+  xy: 1, 864
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_52
+  rotate: false
+  xy: 1, 692
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_54
+  rotate: false
+  xy: 1, 519
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_56
+  rotate: false
+  xy: 1, 347
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_58
+  rotate: false
+  xy: 1, 174
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_60
+  rotate: false
+  xy: 1, 2
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_62
+  rotate: true
+  xy: 182, 1
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_64
+  rotate: true
+  xy: 182, 1545
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+炸弹/nu_skill_4_hit/nu_skill_4_hit_66
+  rotate: true
+  xy: 182, 1364
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1

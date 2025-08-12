@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "383b7860-b264-45a0-b10e-2a8a9b0c439d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "发电机漏电": {
+      "ver": "1.0.4",
+      "uuid": "d2639e32-1c7a-4cb3-bfa1-a748fa5609c8",
+      "rawTextureUuid": "383b7860-b264-45a0-b10e-2a8a9b0c439d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -199,
+      "offsetY": 55.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1650,
+      "height": 145,
+      "rawWidth": 2048,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

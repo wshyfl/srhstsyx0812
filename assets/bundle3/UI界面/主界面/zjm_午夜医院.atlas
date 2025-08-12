@@ -1,0 +1,62 @@
+
+zjm_午夜医院.png
+size: 256,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjm_午夜医院/人1
+  rotate: false
+  xy: 2, 792
+  size: 230, 238
+  orig: 248, 256
+  offset: 9, 9
+  index: -1
+zjm_午夜医院/人2
+  rotate: true
+  xy: 2, 582
+  size: 206, 213
+  orig: 224, 231
+  offset: 9, 9
+  index: -1
+zjm_午夜医院/人3
+  rotate: true
+  xy: 2, 119
+  size: 263, 127
+  orig: 268, 127
+  offset: 5, 0
+  index: -1
+zjm_午夜医院/人4
+  rotate: true
+  xy: 2, 3
+  size: 112, 131
+  orig: 130, 149
+  offset: 9, 9
+  index: -1
+zjm_午夜医院/人5
+  rotate: true
+  xy: 133, 131
+  size: 251, 71
+  orig: 269, 89
+  offset: 9, 9
+  index: -1
+zjm_午夜医院/鬼1
+  rotate: false
+  xy: 2, 1357
+  size: 223, 319
+  orig: 229, 325
+  offset: 3, 3
+  index: -1
+zjm_午夜医院/鬼2
+  rotate: false
+  xy: 2, 1034
+  size: 223, 319
+  orig: 229, 325
+  offset: 3, 3
+  index: -1
+影子
+  rotate: false
+  xy: 2, 386
+  size: 192, 192
+  orig: 218, 218
+  offset: 13, 13
+  index: -1

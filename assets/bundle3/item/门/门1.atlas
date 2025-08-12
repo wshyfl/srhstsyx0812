@@ -1,0 +1,62 @@
+
+门1.png
+size: 75,1088
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小门2L
+  rotate: false
+  xy: 1, 908
+  size: 73, 179
+  orig: 73, 179
+  offset: 0, 0
+  index: -1
+小门2R
+  rotate: false
+  xy: 1, 727
+  size: 73, 179
+  orig: 73, 179
+  offset: 0, 0
+  index: -1
+小门3L
+  rotate: false
+  xy: 1, 200
+  size: 45, 197
+  orig: 45, 197
+  offset: 0, 0
+  index: -1
+小门3R
+  rotate: false
+  xy: 1, 1
+  size: 45, 197
+  orig: 45, 197
+  offset: 0, 0
+  index: -1
+门aL
+  rotate: false
+  xy: 1, 563
+  size: 73, 162
+  orig: 73, 162
+  offset: 0, 0
+  index: -1
+门aR
+  rotate: false
+  xy: 1, 399
+  size: 73, 162
+  orig: 73, 162
+  offset: 0, 0
+  index: -1
+门bL
+  rotate: false
+  xy: 48, 191
+  size: 15, 206
+  orig: 15, 206
+  offset: 0, 0
+  index: -1
+门bR
+  rotate: false
+  xy: 48, 191
+  size: 15, 206
+  orig: 15, 206
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+角色2.png
+size: 1043,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+影子
+  rotate: false
+  xy: 519, 81
+  size: 117, 117
+  orig: 131, 131
+  offset: 7, 7
+  index: -1
+角色2/外大臂
+  rotate: false
+  xy: 871, 120
+  size: 42, 80
+  orig: 50, 85
+  offset: 4, 2
+  index: -1
+角色2/外小腿
+  rotate: false
+  xy: 1004, 137
+  size: 38, 63
+  orig: 47, 70
+  offset: 4, 4
+  index: -1
+角色2/头
+  rotate: true
+  xy: 195, 15
+  size: 183, 160
+  orig: 193, 170
+  offset: 5, 5
+  index: -1
+角色2/头2
+  rotate: true
+  xy: 357, 15
+  size: 183, 160
+  orig: 193, 170
+  offset: 5, 5
+  index: -1
+角色2/头发后
+  rotate: false
+  xy: 1, 1
+  size: 192, 197
+  orig: 202, 207
+  offset: 5, 5
+  index: -1
+角色2/裙子翅膀
+  rotate: true
+  xy: 638, 67
+  size: 131, 93
+  orig: 141, 103
+  offset: 5, 5
+  index: -1
+角色2/身体
+  rotate: true
+  xy: 733, 103
+  size: 95, 81
+  orig: 104, 91
+  offset: 4, 5
+  index: -1
+角色2/里大臂
+  rotate: 180
+  xy: 913, 122
+  size: 57, 77
+  orig: 63, 84
+  offset: 3, 4
+  index: -1
+角色2/里小腿
+  rotate: 180
+  xy: 963, 134
+  size: 40, 64
+  orig: 47, 71
+  offset: 4, 3
+  index: -1
+角色2/魔法球
+  rotate: false
+  xy: 816, 145
+  size: 53, 53
+  orig: 61, 61
+  offset: 4, 4
+  index: -1

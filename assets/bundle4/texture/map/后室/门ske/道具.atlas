@@ -1,0 +1,139 @@
+
+道具.png
+size: 256,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+道具/Glow
+  rotate: false
+  xy: 133, 7
+  size: 42, 42
+  orig: 58, 56
+  offset: 8, 7
+  index: -1
+道具/zjm_img_daoju1
+  rotate: true
+  xy: 113, 194
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+道具/zjm_img_daoju2
+  rotate: false
+  xy: 2, 7
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+道具/zjm_img_daoju3
+  rotate: false
+  xy: 2, 50
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+道具/zjm_img_daoju4
+  rotate: false
+  xy: 70, 53
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+道具/zjm_img_daoju5
+  rotate: true
+  xy: 70, 2
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+道具/zjm_img_daoju6
+  rotate: true
+  xy: 2, 112
+  size: 78, 85
+  orig: 80, 86
+  offset: 1, 0
+  index: -1
+道具/合成 1_01
+  rotate: true
+  xy: 91, 109
+  size: 81, 78
+  orig: 1000, 1000
+  offset: 458, 460
+  index: -1
+道具/合成 1_03
+  rotate: false
+  xy: 2, 194
+  size: 107, 102
+  orig: 1000, 1000
+  offset: 446, 448
+  index: -1
+道具/合成 1_05
+  rotate: false
+  xy: 2, 300
+  size: 129, 123
+  orig: 1000, 1000
+  offset: 437, 437
+  index: -1
+道具/合成 1_07
+  rotate: false
+  xy: 2, 546
+  size: 144, 138
+  orig: 1000, 1000
+  offset: 431, 429
+  index: -1
+道具/合成 1_09
+  rotate: false
+  xy: 2, 688
+  size: 154, 146
+  orig: 1000, 1000
+  offset: 427, 426
+  index: -1
+道具/合成 1_11
+  rotate: false
+  xy: 2, 976
+  size: 162, 146
+  orig: 1000, 1000
+  offset: 424, 429
+  index: -1
+道具/合成 1_13
+  rotate: false
+  xy: 2, 1276
+  size: 167, 149
+  orig: 1000, 1000
+  offset: 422, 428
+  index: -1
+道具/合成 1_15
+  rotate: false
+  xy: 2, 1126
+  size: 169, 146
+  orig: 1000, 1000
+  offset: 422, 431
+  index: -1
+道具/合成 1_17
+  rotate: false
+  xy: 2, 838
+  size: 168, 134
+  orig: 1000, 1000
+  offset: 423, 432
+  index: -1
+道具/合成 1_19
+  rotate: false
+  xy: 2, 427
+  size: 152, 115
+  orig: 1000, 1000
+  offset: 435, 436
+  index: -1
+道具/合成 1_21
+  rotate: false
+  xy: 136, 78
+  size: 9, 9
+  orig: 1000, 1000
+  offset: 457, 483
+  index: -1
+道具/投影
+  rotate: false
+  xy: 136, 53
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1

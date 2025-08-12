@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a1c1721e-5b4d-4bd9-95d9-87f4ce62c278",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1950,
+  "height": 1950,
+  "platformSettings": {},
+  "subMetas": {
+    "后室地图_03": {
+      "ver": "1.0.4",
+      "uuid": "ff1aa24c-59fe-4e49-a155-e45545be8c38",
+      "rawTextureUuid": "a1c1721e-5b4d-4bd9-95d9-87f4ce62c278",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1950,
+      "height": 1950,
+      "rawWidth": 1950,
+      "rawHeight": 1950,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

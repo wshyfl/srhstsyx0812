@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a3e96af8-1a98-4bf6-8b85-8bcbecca8994",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2700,
+  "height": 2700,
+  "platformSettings": {},
+  "subMetas": {
+    "医院地图_04": {
+      "ver": "1.0.4",
+      "uuid": "a0977267-a19e-4ca0-9375-e44985267ba6",
+      "rawTextureUuid": "a3e96af8-1a98-4bf6-8b85-8bcbecca8994",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2700,
+      "height": 2700,
+      "rawWidth": 2700,
+      "rawHeight": 2700,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

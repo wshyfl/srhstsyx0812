@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ed11ec99-262a-482a-bcd5-cab2a79986af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "新地图门2": {
+      "ver": "1.0.4",
+      "uuid": "155bf7ee-a8e9-4a73-a93a-c267a655af1b",
+      "rawTextureUuid": "ed11ec99-262a-482a-bcd5-cab2a79986af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -49.5,
+      "offsetY": 128,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 151,
+      "height": 762,
+      "rawWidth": 256,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

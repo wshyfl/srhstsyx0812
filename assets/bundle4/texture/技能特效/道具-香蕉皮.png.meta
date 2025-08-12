@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9bccde3a-6349-4aa0-be6a-1d18f04ae4e6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 119,
+  "height": 76,
+  "platformSettings": {},
+  "subMetas": {
+    "道具-香蕉皮": {
+      "ver": "1.0.4",
+      "uuid": "e0ca5092-a4c4-4537-a7d8-476ff6c3f07c",
+      "rawTextureUuid": "9bccde3a-6349-4aa0-be6a-1d18f04ae4e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 119,
+      "height": 76,
+      "rawWidth": 119,
+      "rawHeight": 76,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,48 @@
+
+结算.png
+size: 476,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+结算-失败/光
+  rotate: false
+  xy: 1, 730
+  size: 339, 339
+  orig: 363, 363
+  offset: 12, 12
+  index: -1
+结算-失败/字
+  rotate: true
+  xy: 299, 1
+  size: 265, 176
+  orig: 283, 194
+  offset: 9, 9
+  index: -1
+结算-失败/布
+  rotate: true
+  xy: 342, 389
+  size: 441, 119
+  orig: 459, 137
+  offset: 9, 9
+  index: -1
+结算-成功/光
+  rotate: false
+  xy: 1, 389
+  size: 339, 339
+  orig: 363, 363
+  offset: 12, 12
+  index: -1
+结算-成功/字
+  rotate: false
+  xy: 1, 93
+  size: 296, 173
+  orig: 314, 191
+  offset: 9, 9
+  index: -1
+结算-成功/布
+  rotate: false
+  xy: 1, 268
+  size: 441, 119
+  orig: 459, 137
+  offset: 9, 9
+  index: -1

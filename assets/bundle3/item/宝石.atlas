@@ -1,0 +1,118 @@
+
+宝石.png
+size: 1571,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+宝石/1
+  rotate: false
+  xy: 1486, 10
+  size: 60, 72
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+宝石/2
+  rotate: true
+  xy: 1496, 84
+  size: 58, 74
+  orig: 58, 76
+  offset: 0, 1
+  index: -1
+宝石/3
+  rotate: false
+  xy: 1427, 6
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+宝石/Glow
+  rotate: false
+  xy: 1333, 13
+  size: 42, 42
+  orig: 58, 56
+  offset: 8, 7
+  index: -1
+宝石/合成 1_01
+  rotate: true
+  xy: 1427, 84
+  size: 68, 67
+  orig: 1000, 1000
+  offset: 465, 466
+  index: -1
+宝石/合成 1_03
+  rotate: true
+  xy: 1333, 57
+  size: 95, 92
+  orig: 1000, 1000
+  offset: 451, 453
+  index: -1
+宝石/合成 1_05
+  rotate: true
+  xy: 1126, 31
+  size: 121, 114
+  orig: 1000, 1000
+  offset: 440, 442
+  index: -1
+宝石/合成 1_07
+  rotate: true
+  xy: 992, 13
+  size: 139, 132
+  orig: 1000, 1000
+  offset: 433, 432
+  index: -1
+宝石/合成 1_09
+  rotate: true
+  xy: 677, 1
+  size: 151, 145
+  orig: 1000, 1000
+  offset: 428, 426
+  index: -1
+宝石/合成 1_11
+  rotate: false
+  xy: 514, 5
+  size: 161, 147
+  orig: 1000, 1000
+  offset: 424, 428
+  index: -1
+宝石/合成 1_13
+  rotate: false
+  xy: 173, 1
+  size: 166, 151
+  orig: 1000, 1000
+  offset: 422, 427
+  index: -1
+宝石/合成 1_15
+  rotate: false
+  xy: 1, 1
+  size: 170, 151
+  orig: 1000, 1000
+  offset: 421, 428
+  index: -1
+宝石/合成 1_17
+  rotate: false
+  xy: 341, 7
+  size: 171, 145
+  orig: 1000, 1000
+  offset: 421, 431
+  index: -1
+宝石/合成 1_19
+  rotate: false
+  xy: 824, 26
+  size: 166, 126
+  orig: 1000, 1000
+  offset: 425, 432
+  index: -1
+宝石/合成 1_21
+  rotate: true
+  xy: 1242, 12
+  size: 140, 89
+  orig: 1000, 1000
+  offset: 444, 444
+  index: -1
+宝石/投影
+  rotate: false
+  xy: 824, 3
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1

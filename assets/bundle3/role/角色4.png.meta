@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "835b647e-c150-4848-9991-39011fa1bc87",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 852,
+  "height": 183,
+  "platformSettings": {},
+  "subMetas": {
+    "角色4": {
+      "ver": "1.0.4",
+      "uuid": "9759c908-d32d-429e-a085-3da538f22a66",
+      "rawTextureUuid": "835b647e-c150-4848-9991-39011fa1bc87",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 842,
+      "height": 181,
+      "rawWidth": 852,
+      "rawHeight": 183,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

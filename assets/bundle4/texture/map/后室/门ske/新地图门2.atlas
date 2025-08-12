@@ -1,0 +1,34 @@
+
+新地图门2.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+新地图门2/小门1 拷贝 4
+  rotate: false
+  xy: 2, 2
+  size: 153, 164
+  orig: 191, 246
+  offset: 19, 19
+  index: -1
+新地图门2/小门2 拷贝
+  rotate: false
+  xy: 2, 170
+  size: 153, 181
+  orig: 191, 246
+  offset: 19, 19
+  index: -1
+新地图门2/小门3 拷贝
+  rotate: false
+  xy: 2, 355
+  size: 152, 199
+  orig: 191, 246
+  offset: 20, 19
+  index: -1
+新地图门2/小门4
+  rotate: false
+  xy: 2, 558
+  size: 152, 208
+  orig: 191, 246
+  offset: 20, 19
+  index: -1

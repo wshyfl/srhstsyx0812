@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ddb66cb5-0312-4f4f-bce5-0a235de01fce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1494,
+  "height": 214,
+  "platformSettings": {},
+  "subMetas": {
+    "怪物数量增加": {
+      "ver": "1.0.4",
+      "uuid": "ba53b9ea-e0a0-4dae-ab15-02047578da84",
+      "rawTextureUuid": "ddb66cb5-0312-4f4f-bce5-0a235de01fce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1494,
+      "height": 214,
+      "rawWidth": 1494,
+      "rawHeight": 214,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

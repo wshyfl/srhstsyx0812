@@ -1,0 +1,83 @@
+
+角色3.png
+size: 947,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+影子
+  rotate: false
+  xy: 461, 127
+  size: 117, 117
+  orig: 131, 131
+  offset: 7, 7
+  index: -1
+角色3/外大臂
+  rotate: false
+  xy: 834, 204
+  size: 38, 40
+  orig: 48, 49
+  offset: 5, 4
+  index: -1
+角色3/外小腿
+  rotate: 180
+  xy: 756, 175
+  size: 44, 70
+  orig: 50, 75
+  offset: 4, 0
+  index: -1
+角色3/外小臂
+  rotate: 180
+  xy: 794, 181
+  size: 39, 64
+  orig: 43, 64
+  offset: 4, 0
+  index: -1
+角色3/头
+  rotate: false
+  xy: 1, 1
+  size: 228, 243
+  orig: 238, 253
+  offset: 5, 5
+  index: -1
+角色3/头2
+  rotate: false
+  xy: 231, 1
+  size: 228, 243
+  orig: 238, 253
+  offset: 5, 5
+  index: -1
+角色3/身体
+  rotate: false
+  xy: 580, 163
+  size: 79, 81
+  orig: 89, 91
+  offset: 5, 5
+  index: -1
+角色3/道具-香蕉
+  rotate: true
+  xy: 661, 192
+  size: 52, 50
+  orig: 62, 60
+  offset: 5, 5
+  index: -1
+角色3/里大臂
+  rotate: false
+  xy: 914, 210
+  size: 31, 34
+  orig: 41, 44
+  offset: 5, 5
+  index: -1
+角色3/里小腿
+  rotate: 180
+  xy: 712, 178
+  size: 46, 67
+  orig: 50, 71
+  offset: 4, 0
+  index: -1
+角色3/里小臂
+  rotate: false
+  xy: 867, 183
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "传送带",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "580a5064-e41a-425f-909a-b957bd10427d"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "35c40ea2-058d-463a-b5da-a33a72f8f0c6"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "f7436c43-bcc5-4f8c-9715-ad6c7b4f7054"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "273c0964-6c1e-4702-94b3-c3494c135977"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

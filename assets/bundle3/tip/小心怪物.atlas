@@ -1,0 +1,27 @@
+
+小心怪物.png
+size: 1176,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小心怪物/三角
+  rotate: false
+  xy: 414, 3
+  size: 76, 69
+  orig: 94, 87
+  offset: 9, 9
+  index: -1
+小心怪物/小心地图中的怪物
+  rotate: false
+  xy: 1, 1
+  size: 411, 71
+  orig: 433, 93
+  offset: 11, 11
+  index: -1
+小心怪物/矩形 12 拷贝 2
+  rotate: false
+  xy: 1, 74
+  size: 1174, 212
+  orig: 1227, 240
+  offset: 26, 14
+  index: -1

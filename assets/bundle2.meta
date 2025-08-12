@@ -1,0 +1,32 @@
+{
+  "ver": "1.1.2",
+  "uuid": "0e5172d7-5690-41b2-8326-b8306be4eb06",
+  "isBundle": true,
+  "bundleName": "",
+  "priority": "2",
+  "compressionType": {
+    "bytedance": "subpackage",
+    "qgame": "subpackage",
+    "quickgame": "subpackage",
+    "wechatgame": "subpackage"
+  },
+  "optimizeHotUpdate": {
+    "bytedance": false,
+    "qgame": false,
+    "quickgame": false,
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "bytedance": false,
+    "qgame": false,
+    "quickgame": false,
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "bytedance": false,
+    "qgame": false,
+    "quickgame": false,
+    "wechatgame": false
+  },
+  "subMetas": {}
+}

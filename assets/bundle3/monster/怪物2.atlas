@@ -1,0 +1,167 @@
+
+怪物2.png
+size: 2026,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg0
+  rotate: false
+  xy: 1491, 150
+  size: 102, 70
+  orig: 125, 113
+  offset: 4, 19
+  index: -1
+dg1
+  rotate: true
+  xy: 1922, 386
+  size: 107, 103
+  orig: 125, 113
+  offset: 9, 7
+  index: -1
+dg2
+  rotate: false
+  xy: 1922, 290
+  size: 92, 94
+  orig: 125, 113
+  offset: 25, 5
+  index: -1
+dg3
+  rotate: false
+  xy: 338, 118
+  size: 82, 85
+  orig: 125, 113
+  offset: 39, 3
+  index: -1
+dg4
+  rotate: false
+  xy: 1922, 201
+  size: 87, 87
+  orig: 125, 113
+  offset: 37, 1
+  index: -1
+影子
+  rotate: false
+  xy: 422, 144
+  size: 59, 59
+  orig: 65, 65
+  offset: 3, 3
+  index: -1
+怪物2/body
+  rotate: false
+  xy: 1242, 85
+  size: 248, 137
+  orig: 248, 137
+  offset: 0, 0
+  index: -1
+怪物2/leg1
+  rotate: false
+  xy: 1595, 129
+  size: 67, 92
+  orig: 77, 94
+  offset: 10, 0
+  index: -1
+怪物2/leg2
+  rotate: 180
+  xy: 550, 139
+  size: 49, 65
+  orig: 53, 67
+  offset: 2, 0
+  index: -1
+怪物2/leg3
+  rotate: false
+  xy: 482, 127
+  size: 66, 77
+  orig: 68, 77
+  offset: 2, 0
+  index: -1
+水泡/合成 1_09
+  rotate: false
+  xy: 1009, 1
+  size: 231, 221
+  orig: 576, 324
+  offset: 176, 46
+  index: -1
+水泡/合成 1_10
+  rotate: true
+  xy: 1666, 190
+  size: 303, 254
+  orig: 576, 324
+  offset: 132, 26
+  index: -1
+水泡/合成 1_11
+  rotate: true
+  xy: 1666, 190
+  size: 303, 254
+  orig: 576, 324
+  offset: 132, 26
+  index: -1
+水泡/合成 1_12
+  rotate: false
+  xy: 1343, 222
+  size: 321, 271
+  orig: 576, 324
+  offset: 124, 18
+  index: -1
+水泡/合成 1_13
+  rotate: false
+  xy: 1343, 222
+  size: 321, 271
+  orig: 576, 324
+  offset: 124, 18
+  index: -1
+水泡/合成 1_14
+  rotate: false
+  xy: 677, 204
+  size: 330, 289
+  orig: 576, 324
+  offset: 118, 9
+  index: -1
+水泡/合成 1_15
+  rotate: false
+  xy: 677, 204
+  size: 330, 289
+  orig: 576, 324
+  offset: 118, 9
+  index: -1
+水泡/合成 1_16
+  rotate: false
+  xy: 1, 197
+  size: 335, 296
+  orig: 576, 324
+  offset: 116, 6
+  index: -1
+水泡/合成 1_17
+  rotate: false
+  xy: 1, 197
+  size: 335, 296
+  orig: 576, 324
+  offset: 116, 6
+  index: -1
+水泡/合成 1_18
+  rotate: false
+  xy: 338, 205
+  size: 337, 288
+  orig: 576, 324
+  offset: 115, 16
+  index: -1
+水泡/合成 1_19
+  rotate: false
+  xy: 338, 205
+  size: 337, 288
+  orig: 576, 324
+  offset: 115, 16
+  index: -1
+水泡/合成 1_20
+  rotate: false
+  xy: 1009, 224
+  size: 332, 269
+  orig: 576, 324
+  offset: 115, 35
+  index: -1
+水泡/合成 1_21
+  rotate: false
+  xy: 1009, 224
+  size: 332, 269
+  orig: 576, 324
+  offset: 115, 35
+  index: -1

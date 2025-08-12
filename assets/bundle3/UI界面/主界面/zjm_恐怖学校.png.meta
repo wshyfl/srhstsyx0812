@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8d361bc5-8703-494e-9545-a158141adcb9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "zjm_恐怖学校": {
+      "ver": "1.0.4",
+      "uuid": "38002b0d-075d-45b5-b231-b2e721f5cbb2",
+      "rawTextureUuid": "8d361bc5-8703-494e-9545-a158141adcb9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -109,
+      "offsetY": 490.5,
+      "trimX": 3,
+      "trimY": 5,
+      "width": 288,
+      "height": 1057,
+      "rawWidth": 512,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

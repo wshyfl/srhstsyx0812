@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b10f8b61-f884-444d-a03c-83859fc7b1ca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "供水管道喷水花": {
+      "ver": "1.0.4",
+      "uuid": "e0487d9e-0661-46f3-9f1d-4486a0650ed3",
+      "rawTextureUuid": "b10f8b61-f884-444d-a03c-83859fc7b1ca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -31,
+      "offsetY": 309.5,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 60,
+      "height": 1423,
+      "rawWidth": 128,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

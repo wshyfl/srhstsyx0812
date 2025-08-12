@@ -1,0 +1,111 @@
+
+角色6.png
+size: 1286,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+影子
+  rotate: false
+  xy: 567, 78
+  size: 117, 117
+  orig: 131, 131
+  offset: 7, 7
+  index: -1
+角色6/乾坤圈
+  rotate: true
+  xy: 1126, 138
+  size: 57, 38
+  orig: 67, 46
+  offset: 5, 4
+  index: -1
+角色6/内大臂
+  rotate: 180
+  xy: 1234, 123
+  size: 51, 74
+  orig: 56, 81
+  offset: 3, 4
+  index: -1
+角色6/外大臂
+  rotate: false
+  xy: 1166, 116
+  size: 44, 80
+  orig: 52, 87
+  offset: 4, 4
+  index: -1
+角色6/头
+  rotate: false
+  xy: 1, 4
+  size: 202, 191
+  orig: 212, 201
+  offset: 5, 5
+  index: -1
+角色6/头2
+  rotate: false
+  xy: 205, 4
+  size: 202, 191
+  orig: 212, 201
+  offset: 5, 5
+  index: -1
+角色6/残影_02
+  rotate: true
+  xy: 409, 1
+  size: 194, 156
+  orig: 198, 161
+  offset: 2, 3
+  index: -1
+角色6/混天绫1
+  rotate: false
+  xy: 870, 79
+  size: 103, 118
+  orig: 243, 184
+  offset: 4, 62
+  index: -1
+角色6/混天绫2
+  rotate: true
+  xy: 1056, 104
+  size: 93, 68
+  orig: 243, 184
+  offset: 18, 5
+  index: -1
+角色6/混天绫3
+  rotate: false
+  xy: 959, 60
+  size: 107, 136
+  orig: 243, 184
+  offset: 81, 44
+  index: -1
+角色6/混天绫4
+  rotate: 270
+  xy: 1202, 114
+  size: 83, 38
+  orig: 243, 184
+  offset: 156, 14
+  index: -1
+角色6/火/Fire_00
+  rotate: true
+  xy: 686, 97
+  size: 98, 61
+  orig: 120, 120
+  offset: 2, 30
+  index: -1
+角色6/脚L
+  rotate: false
+  xy: 959, 90
+  size: 47, 106
+  orig: 55, 114
+  offset: 4, 4
+  index: -1
+角色6/脚R
+  rotate: false
+  xy: 821, 80
+  size: 55, 116
+  orig: 65, 118
+  offset: 3, 2
+  index: -1
+角色6/身体
+  rotate: true
+  xy: 749, 121
+  size: 74, 72
+  orig: 84, 82
+  offset: 5, 5
+  index: -1

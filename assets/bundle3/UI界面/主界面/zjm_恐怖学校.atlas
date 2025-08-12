@@ -1,0 +1,62 @@
+
+zjm_恐怖学校.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjm_恐怖学校/人
+  rotate: false
+  xy: 2, 754
+  size: 287, 309
+  orig: 306, 327
+  offset: 9, 9
+  index: -1
+zjm_恐怖学校/影子
+  rotate: false
+  xy: 2, 182
+  size: 267, 68
+  orig: 285, 86
+  offset: 9, 9
+  index: -1
+zjm_恐怖学校/怪物2/body
+  rotate: true
+  xy: 2, 254
+  size: 496, 274
+  orig: 496, 274
+  offset: 0, 0
+  index: -1
+zjm_恐怖学校/怪物2/leg1
+  rotate: true
+  xy: 2, 45
+  size: 134, 183
+  orig: 154, 188
+  offset: 20, 0
+  index: -1
+zjm_恐怖学校/怪物2/leg2
+  rotate: true
+  xy: 2, 3
+  size: 97, 129
+  orig: 106, 133
+  offset: 5, 0
+  index: -1
+zjm_恐怖学校/怪物2/leg3
+  rotate: false
+  xy: 2, 533
+  size: 132, 154
+  orig: 136, 154
+  offset: 4, 0
+  index: -1
+zjm_恐怖学校/绳
+  rotate: false
+  xy: 273, 103
+  size: 13, 506
+  orig: 31, 524
+  offset: 9, 9
+  index: -1
+zjm_恐怖学校/香蕉皮
+  rotate: true
+  xy: 188, 23
+  size: 155, 69
+  orig: 173, 87
+  offset: 9, 9
+  index: -1

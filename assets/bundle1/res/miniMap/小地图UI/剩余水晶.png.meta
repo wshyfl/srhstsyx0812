@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ab16ddb1-aee4-4716-9537-b2bb07433b8a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 423,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "剩余水晶": {
+      "ver": "1.0.4",
+      "uuid": "f34b8ff8-ccdf-4955-a2e1-44c18f2e4680",
+      "rawTextureUuid": "ab16ddb1-aee4-4716-9537-b2bb07433b8a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 423,
+      "height": 91,
+      "rawWidth": 423,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

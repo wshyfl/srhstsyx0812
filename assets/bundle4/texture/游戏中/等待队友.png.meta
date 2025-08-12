@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d0d49da0-ee59-44f0-925d-50efffd3b02c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 339,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "等待队友": {
+      "ver": "1.0.4",
+      "uuid": "c429ef5e-bc02-4913-bf3f-9344786ab8bd",
+      "rawTextureUuid": "d0d49da0-ee59-44f0-925d-50efffd3b02c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 339,
+      "height": 60,
+      "rawWidth": 339,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

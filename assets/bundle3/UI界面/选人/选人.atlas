@@ -1,0 +1,167 @@
+
+选人.png
+size: 2034,625
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+选人/Glow
+  rotate: false
+  xy: 1, 224
+  size: 400, 400
+  orig: 495, 432
+  offset: 55, 32
+  index: -1
+选人/光束
+  rotate: false
+  xy: 1583, 311
+  size: 80, 25
+  orig: 80, 25
+  offset: 0, 0
+  index: -1
+选人/水晶
+  rotate: true
+  xy: 1881, 20
+  size: 124, 152
+  orig: 138, 173
+  offset: 7, 11
+  index: -1
+选人/粒子/a_00
+  rotate: true
+  xy: 1004, 1
+  size: 128, 263
+  orig: 960, 432
+  offset: 420, 169
+  index: -1
+选人/粒子/a_01
+  rotate: true
+  xy: 1311, 24
+  size: 125, 294
+  orig: 960, 432
+  offset: 422, 138
+  index: -1
+选人/粒子/a_02
+  rotate: true
+  xy: 1, 95
+  size: 127, 294
+  orig: 960, 432
+  offset: 424, 138
+  index: -1
+选人/粒子/a_03
+  rotate: false
+  xy: 1878, 334
+  size: 154, 290
+  orig: 960, 432
+  offset: 398, 142
+  index: -1
+选人/粒子/a_04
+  rotate: false
+  xy: 1583, 337
+  size: 157, 287
+  orig: 960, 432
+  offset: 394, 145
+  index: -1
+选人/粒子/a_05
+  rotate: true
+  xy: 1437, 151
+  size: 156, 282
+  orig: 960, 432
+  offset: 394, 150
+  index: -1
+选人/粒子/a_06
+  rotate: false
+  xy: 403, 246
+  size: 154, 378
+  orig: 960, 432
+  offset: 395, 54
+  index: -1
+选人/粒子/a_07
+  rotate: false
+  xy: 559, 250
+  size: 152, 374
+  orig: 960, 432
+  offset: 396, 58
+  index: -1
+选人/粒子/a_08
+  rotate: false
+  xy: 713, 258
+  size: 149, 366
+  orig: 960, 432
+  offset: 397, 66
+  index: -1
+选人/粒子/a_09
+  rotate: false
+  xy: 864, 266
+  size: 145, 358
+  orig: 960, 432
+  offset: 399, 74
+  index: -1
+选人/粒子/a_10
+  rotate: false
+  xy: 1011, 274
+  size: 141, 350
+  orig: 960, 432
+  offset: 401, 82
+  index: -1
+选人/粒子/a_11
+  rotate: false
+  xy: 1154, 283
+  size: 137, 341
+  orig: 960, 432
+  offset: 403, 91
+  index: -1
+选人/粒子/a_12
+  rotate: false
+  xy: 1742, 291
+  size: 134, 333
+  orig: 960, 432
+  offset: 405, 99
+  index: -1
+选人/粒子/a_13
+  rotate: false
+  xy: 1293, 300
+  size: 142, 324
+  orig: 960, 432
+  offset: 406, 108
+  index: -1
+选人/粒子/a_14
+  rotate: false
+  xy: 1437, 309
+  size: 144, 315
+  orig: 960, 432
+  offset: 408, 117
+  index: -1
+选人/粒子/a_15
+  rotate: true
+  xy: 1721, 146
+  size: 143, 306
+  orig: 960, 432
+  offset: 410, 126
+  index: -1
+选人/粒子/a_16
+  rotate: true
+  xy: 1011, 131
+  size: 141, 298
+  orig: 960, 432
+  offset: 412, 134
+  index: -1
+选人/粒子/a_17
+  rotate: true
+  xy: 713, 118
+  size: 138, 289
+  orig: 960, 432
+  offset: 414, 143
+  index: -1
+选人/粒子/a_18
+  rotate: true
+  xy: 403, 109
+  size: 135, 281
+  orig: 960, 432
+  offset: 416, 151
+  index: -1
+选人/粒子/a_19
+  rotate: true
+  xy: 1607, 12
+  size: 132, 272
+  orig: 960, 432
+  offset: 418, 160
+  index: -1

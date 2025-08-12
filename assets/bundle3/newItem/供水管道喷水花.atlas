@@ -1,0 +1,118 @@
+
+供水管道喷水花.png
+size: 128,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+新建文件夹/水/水_00
+  rotate: false
+  xy: 2, 972
+  size: 53, 93
+  orig: 192, 108
+  offset: 63, 9
+  index: -1
+新建文件夹/水/水_01
+  rotate: false
+  xy: 2, 177
+  size: 56, 83
+  orig: 192, 108
+  offset: 62, 11
+  index: -1
+新建文件夹/水/水_02
+  rotate: false
+  xy: 2, 528
+  size: 57, 83
+  orig: 192, 108
+  offset: 62, 11
+  index: -1
+新建文件夹/水/水_03
+  rotate: false
+  xy: 2, 1069
+  size: 60, 84
+  orig: 192, 108
+  offset: 62, 11
+  index: -1
+新建文件夹/水/水_04
+  rotate: false
+  xy: 2, 441
+  size: 57, 83
+  orig: 192, 108
+  offset: 62, 11
+  index: -1
+新建文件夹/水/水_05
+  rotate: false
+  xy: 2, 886
+  size: 59, 82
+  orig: 192, 108
+  offset: 62, 11
+  index: -1
+新建文件夹/水/水_06
+  rotate: false
+  xy: 2, 1248
+  size: 62, 83
+  orig: 192, 108
+  offset: 62, 10
+  index: -1
+新建文件夹/水/水_07
+  rotate: false
+  xy: 2, 353
+  size: 56, 84
+  orig: 192, 108
+  offset: 62, 10
+  index: -1
+新建文件夹/水/水_08
+  rotate: false
+  xy: 2, 615
+  size: 57, 84
+  orig: 192, 108
+  offset: 62, 10
+  index: -1
+新建文件夹/水/水_09
+  rotate: false
+  xy: 2, 799
+  size: 58, 83
+  orig: 192, 108
+  offset: 63, 10
+  index: -1
+新建文件夹/水/水_10
+  rotate: false
+  xy: 2, 90
+  size: 55, 83
+  orig: 192, 108
+  offset: 63, 10
+  index: -1
+新建文件夹/水/水_11
+  rotate: false
+  xy: 2, 2
+  size: 54, 84
+  orig: 192, 108
+  offset: 63, 10
+  index: -1
+新建文件夹/水/水_12
+  rotate: false
+  xy: 2, 264
+  size: 55, 85
+  orig: 192, 108
+  offset: 63, 10
+  index: -1
+新建文件夹/水/水_13
+  rotate: false
+  xy: 2, 1157
+  size: 58, 87
+  orig: 192, 108
+  offset: 63, 10
+  index: -1
+新建文件夹/水/水_14
+  rotate: false
+  xy: 2, 1335
+  size: 62, 89
+  orig: 192, 108
+  offset: 63, 10
+  index: -1
+新建文件夹/水/水_15
+  rotate: false
+  xy: 2, 703
+  size: 52, 92
+  orig: 192, 108
+  offset: 63, 9
+  index: -1

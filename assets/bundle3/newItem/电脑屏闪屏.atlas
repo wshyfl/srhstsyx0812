@@ -1,0 +1,13 @@
+
+电脑屏闪屏.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+新建文件夹/电脑闪屏
+  rotate: false
+  xy: 2, 2
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1

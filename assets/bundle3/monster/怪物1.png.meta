@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d239be38-39c1-4204-b076-482f37488a9f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2045,
+  "height": 494,
+  "platformSettings": {},
+  "subMetas": {
+    "怪物1": {
+      "ver": "1.0.4",
+      "uuid": "5d60f6ad-bf96-4f5a-95ea-46c7c88181ab",
+      "rawTextureUuid": "d239be38-39c1-4204-b076-482f37488a9f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 2041,
+      "height": 492,
+      "rawWidth": 2045,
+      "rawHeight": 494,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
